@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://cora-ventures.github.io"
 title = "Cora Ventures"
 languageCode = "en-us"
 defaultContentLanguage = "en"
